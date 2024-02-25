@@ -18,8 +18,6 @@ Soy una pasante de ingeniería en computación con conocimiento técnico y una g
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=YSantanas&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=YSantanas&icon=9&color=5)](https://visitcount.itsvg.in)
