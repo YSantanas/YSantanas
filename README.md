@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-Soy una pasante de ingeniería en computación con conocimiento técnico y una gran habilidad para enfrentar desafíos. Estoy emocionada por seguir creciendo profesionalmente y contribuir al mundo de la tecnología con soluciones innovadoras y creativas.<br>
+I am a computer engineering intern with technical knowledge and a great ability to face challenges. I am excited to continue growing professionally and contributing to the world of technology with innovative and creative solutions.<br>
 
 
 
