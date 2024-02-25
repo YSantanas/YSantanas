@@ -19,8 +19,9 @@ Soy una pasante de ingeniería en computación con conocimiento técnico y una g
 
 <p align="center">
 <a href="https://github.com/YSantanas">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YSantanas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YSantanas&layout=compact&langs_count=8&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YSantanas&theme=dracula&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YSantanas&theme=dracula&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YSantanas&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </a>
 </p>
 
