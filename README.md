@@ -17,15 +17,12 @@ Soy una pasante de ingeniería en computación con conocimiento técnico y una g
 
 ## 🏆 GitHub Trophies
 
-
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YSantanas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YSantanas&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/YSantanas">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YSantanas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YSantanas&layout=compact&langs_count=8&theme=dracula"/>
 </a>
 </p>
-
-![](https://github-profile-trophy.vercel.app/?username=YSantanas&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?language=es&type=horizontal&theme=radical)
