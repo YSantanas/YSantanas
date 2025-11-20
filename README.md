@@ -55,7 +55,6 @@ I am a computer engineering intern with technical knowledge and a great ability 
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YSantanas&theme=dracula&show_icons=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=YSantanas&theme=dracula"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YSantanas&theme=dracula&layout=compact"/>
 </p>
 
