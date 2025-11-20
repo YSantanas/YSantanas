@@ -9,17 +9,23 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - name: Update GitHub Readme Stats
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update README stats
         run: |
-          # Aquí puedes regenerar tu README con stats usando el token
-          # Por ejemplo, usando scripts que actualicen imágenes de stats
+          # Aquí puedes regenerar tu README o solo actualizar imágenes
+          # Ejemplo: reemplazar las imágenes de GitHub Readme Stats
+          echo "README actualizado con stats privadas"
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "Update GitHub stats"
+          git commit -m "Update GitHub stats" || echo "No changes to commit"
           git push
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
