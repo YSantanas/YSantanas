@@ -21,6 +21,8 @@ I am a computer engineering intern with technical knowledge and a great ability 
 </a>
 </p>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YSantanas&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?language=es&type=horizontal&theme=radical)
 
