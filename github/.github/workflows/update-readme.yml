@@ -1,0 +1,25 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Cada día a medianoche
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update GitHub Readme Stats
+        run: |
+          # Aquí puedes regenerar tu README con stats usando el token
+          # Por ejemplo, usando scripts que actualicen imágenes de stats
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update GitHub stats"
+          git push
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
