@@ -62,7 +62,9 @@ I am a computer engineering intern with technical knowledge and a great ability 
 
 ### ✍️ Random Dev Quote
 <p align="center">
+  
   ![](https://quotes-github-readme.vercel.app/api?language=es&type=horizontal&theme=radical)
+  
 </p>
 
 ---
