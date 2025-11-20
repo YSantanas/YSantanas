@@ -69,7 +69,10 @@ I am a computer engineering intern with technical knowledge and a great ability 
 
 ### 🌐 Connect with me
 <p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yvettesantanasanchez) 
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yvettesantanasanchez)
+  
   [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/YSantanas)
+  
 </p>
 
