@@ -54,8 +54,10 @@ I am a computer engineering intern with technical knowledge and a great ability 
 ## 🏆 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YSantanas&show_icons=true&count_private=true&theme=dracula&token=${{ secrets.GH_TOKEN }}"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YSantanas&layout=compact&theme=dracula&count_private=true&token=${{ secrets.GH_TOKEN }}"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YSantanas&show_icons=true&count_private=true&theme=dracula"/>
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YSantanas&layout=compact&theme=dracula&count_private=true"/>
+
 
 </p>
 
